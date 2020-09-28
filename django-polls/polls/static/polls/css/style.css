@@ -1,0 +1,24 @@
+*{
+    background: green;
+}
+:root{
+    background: red;
+}
+
+body{
+    /* background:yellow!important; */
+    background:white url("img/logo.png") no-repeat;
+}
+
+body:hover{
+    background: yellow;
+}
+
+
+li a {
+    color: blue;
+}
+
+li a:hover{
+    color: white;
+}
